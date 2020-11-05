@@ -1,5 +1,5 @@
 # generalCultureGame
-This is my first project, which I created in 2017. It only contains C #.
+This is my first project, created in 2017. It only contains C#.
 
 The project involves a page that has two general culture tests in Romanian. The first test is about the IT field and the second about the history of Romania.
 
